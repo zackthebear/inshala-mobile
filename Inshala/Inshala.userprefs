@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MaestroScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Web Services/WebServices.cs" Line="178" Column="5" />
+      <File FileName="Assets/Scripts/DotsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ClaseScript.cs" Line="29" Column="9" />
+      <File FileName="Assets/Scripts/HorarioScript.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/ClassesScript.cs" Line="33" Column="30" />
+      <File FileName="Assets/Scripts/AlertScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HomeScript.cs" Line="19" Column="91" />
+      <File FileName="Assets/Scripts/PinScript.cs" Line="125" Column="73" />
+      <File FileName="Assets/Scripts/RegisterScript.cs" Line="89" Column="3" />
+      <File FileName="Assets/Scripts/EmailNumberScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CatalogScript.cs" Line="23" Column="3" />
+      <File FileName="Assets/Scripts/PurchaseOption.cs" Line="16" Column="25" />
+      <File FileName="Assets/Scripts/AssignamentScripts/ClassesAsignement.cs" Line="35" Column="6" />
+      <File FileName="Assets/Scripts/MaestroScript.cs" Line="31" Column="3" />
+      <File FileName="Assets/Scripts/AlumnoScript.cs" Line="8" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
